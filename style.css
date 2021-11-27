@@ -1,0 +1,151 @@
+.jumbotron{
+	padding-top: 80px;
+	background-color:lightskyblue;
+
+}
+
+#gallery{
+	background-color:  pink;
+}
+
+#about{
+	background-color: lightskyblue;
+}
+
+footer a{
+	text-decoration: none;
+	color: black;
+}
+
+#home{
+	background-color: pink;
+}
+
+
+.container{
+	padding: 10px;
+
+}
+footer{
+	padding-bottom: 20px;
+}
+
+section{
+	padding-top: 80px;
+}
+
+#about{
+	background-color: lightskyblue;
+	text-align: center;
+}
+
+#contact{
+	background-color: lightskyblue;
+}
+
+
+footer{
+	background-color: pink;
+    padding: 5px 0;
+	
+	color: white;
+	text-align: center;
+}
+
+.table tr td{
+	
+	width: 50%;
+}
+
+.container table{
+	width: 300px;
+	align-items: center;
+	margin: auto;
+}
+.container h2{
+	text-align: center;
+}
+
+#about3{
+	text-align: left;
+}
+
+.container p{
+	text-align: center;
+}
+
+
+tr td{
+	text-align: left;
+}
+
+
+#gallery{
+	width: 100%;
+}
+
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.service{
+	background-color: white;
+
+}
+
+.kotak-service{
+	color: skyblue;
+}
+
+.kotak-service:after{
+	content: '';
+    display: block;
+    clear: both;
+}
+
+/*mengatur ukuran dan jarak kotak service*/
+.kotak-service .item-service{
+	width: 30%;
+	padding: 20px;
+	float: left;
+
+}
+
+
+/*mengatur ukuran dan posisi icon*/
+.icon{
+	height: 75px;
+	width: 75px;
+	
+	border-radius: 70px;
+	text-align: center;
+	margin: 0 auto;
+	box-sizing: border-box;  /*membuat agar elemen tetap di dalam kotak*/
+
+}
+
+
+.item-service h4{
+	margin: 20px 0;
+    text-align: center;
+
+
+
+}
+
+.icon-service{
+	weight: 40px;
+	margin-top: 20px;
+	tetx-align: center;
+}
+
+.icon{
+	position: center;
+}
+
+.container h2{
+	margin-top: 30px;
+}
+
+
